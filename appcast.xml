@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://alberthodo.github.io/NivisUpdates/NivisInstaller.dmg" length="3919226" type="application/octet-stream" sparkle:edSignature="DeM6Op+UE1zqqnSoNHAnsSm5wyrIeb+9yzugBEnxe3elBlv7c4TCBenYg67Ele+flODNvcbQnMsWQ2xz2UgbDA=="/>
+            <enclosure url="https://github.com/alberthodo/NivisUpdates/releases/download/pre/NivisInstaller.dmg" length="3919226" type="application/octet-stream" sparkle:edSignature="DeM6Op+UE1zqqnSoNHAnsSm5wyrIeb+9yzugBEnxe3elBlv7c4TCBenYg67Ele+flODNvcbQnMsWQ2xz2UgbDA=="/>
         </item>
     </channel>
 </rss>
