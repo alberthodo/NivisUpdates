@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>NIVIS</title>
+        <item>
+            <title>0.9</title>
+            <pubDate>Tue, 29 Jul 2025 10:23:38 -0400</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://alberthodo.github.io/NivisUpdates/NivisInstaller.dmg" length="3919226" type="application/octet-stream" sparkle:edSignature="DeM6Op+UE1zqqnSoNHAnsSm5wyrIeb+9yzugBEnxe3elBlv7c4TCBenYg67Ele+flODNvcbQnMsWQ2xz2UgbDA=="/>
+        </item>
+    </channel>
+</rss>
