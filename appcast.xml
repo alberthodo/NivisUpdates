@@ -5,6 +5,22 @@
         <item>
             <title>1.0.4</title>
             <pubDate>Fri, 01 Aug 2025 18:30:37 -0400</pubDate>
+             <description><![CDATA[
+                <h2>What's New in 1.0.2</h2>
+                <ul>
+                    <li><strong>🧠 Complete SSVEP Implementation:</strong> Visual stimulus generator with real-time focus simulation and performance tracking</li>
+                    <li><strong>⚡ Advanced Event System:</strong> Time-based event triggering and complex scenario scripting with modern UI</li>
+                    <li><strong>🌐 Enhanced Connectivity:</strong> Multi-protocol API support (TCP, MQTT, HTTP) with real-time data streaming</li>
+                    <li><strong>📊 Research-Grade Data Export:</strong> Multiple export formats with comprehensive metadata and performance analytics</li>
+                    <li><strong>🔧 Signal Processing:</strong> Advanced filtering, artifact detection, and spectral analysis tools</li>
+                    <li><strong>🎯 Modern UI/UX:</strong> Complete interface redesign with drag-and-drop functionality and real-time feedback</li>
+                    <li><strong>📚 10+ Sample Projects:</strong> Comprehensive SSVEP demos showcasing full app integration</li>
+                    <li><strong>🏥 Healthcare Applications:</strong> Clinical research, rehabilitation, and diagnostic tools</li>
+                    <li><strong>🎮 Consumer & Gaming:</strong> Interactive entertainment and brain fitness applications</li>
+                    <li><strong>🏭 Industrial Use Cases:</strong> Human-machine interfaces and safety monitoring systems</li>
+                </ul>
+                <p><strong>Performance Improvements:</strong> Sub-10ms latency, multi-channel support (1-64), and scalable architecture for research to production workflows.</p>
+            ]]></description>
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
