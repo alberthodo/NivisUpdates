@@ -3,12 +3,12 @@
     <channel>
         <title>NIVIS</title>
         <item>
-            <title>1.0.2</title>
-            <pubDate>Fri, 01 Aug 2025 17:10:35 -0400</pubDate>
+            <title>1.0.3</title>
+            <pubDate>Fri, 01 Aug 2025 17:54:35 -0400</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
+             <description><![CDATA[
                 <h2>What's New in 1.0.2</h2>
                 <ul>
                     <li><strong>🧠 Complete SSVEP Implementation:</strong> Visual stimulus generator with real-time focus simulation and performance tracking</li>
@@ -22,7 +22,7 @@
                 </ul>
                 <p><strong>Performance Improvements:</strong> Sub-10ms latency, multi-channel support (1-64), and scalable architecture for research to production workflows.</p>
             ]]></description>
-            <enclosure url="https://alberthodo.github.io/NivisUpdates/NivisInstaller.dmg" length="5062387" type="application/octet-stream" sparkle:edSignature="Uk/uCE2+sV96KMz6+o6iUvncHElmXn1ybwPnZBTYJ+ljvUXKLCFdSGkRL3gMnu+kLLM6nwR14+XmFaCshLEVCw=="/>
+            <enclosure url="https://alberthodo.github.io/NivisUpdates/NivisInstaller.dmg" length="5062748" type="application/octet-stream" sparkle:edSignature="swLiQ4oGLfm1D8gCh4w2UyDP4iEOhC6s1wUrf8BTP3UTuGD4FCA5o5r5MPY7nt/pH6DGz8mH6/WUnC2KnESRAg=="/>
         </item>
     </channel>
 </rss>
