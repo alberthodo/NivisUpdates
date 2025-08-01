@@ -22,7 +22,7 @@
                 </ul>
                 <p><strong>Performance Improvements:</strong> Sub-10ms latency, multi-channel support (1-64), and scalable architecture for research to production workflows.</p>
             ]]></description>
-            <enclosure url="https://github.com/alberthodo/NivisUpdates/releases/download/pre/NivisInstaller.dmg" length="5062387" type="application/octet-stream" sparkle:edSignature="Uk/uCE2+sV96KMz6+o6iUvncHElmXn1ybwPnZBTYJ+ljvUXKLCFdSGkRL3gMnu+kLLM6nwR14+XmFaCshLEVCw=="/>
+            <enclosure url="https://alberthodo.github.io/NivisUpdates/NivisInstaller.dmg" length="5062387" type="application/octet-stream" sparkle:edSignature="Uk/uCE2+sV96KMz6+o6iUvncHElmXn1ybwPnZBTYJ+ljvUXKLCFdSGkRL3gMnu+kLLM6nwR14+XmFaCshLEVCw=="/>
         </item>
     </channel>
 </rss>
