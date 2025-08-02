@@ -3,10 +3,10 @@
     <channel>
         <title>NIVIS</title>
         <item>
-            <title>1.0.5</title>
+            <title>1.0.6</title>
             <pubDate>Sat, 02 Aug 2025 18:10:08 -0400</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://alberthodo.github.io/NivisUpdates/NivisInstaller.dmg" length="5068415" type="application/octet-stream" sparkle:edSignature="uAa2emHqeA2YWan7VqrQeU/+byglvKlIUQhWkqChbyFMcwV6vUIdHln6TVMRR6sa640NlR9YLC0+8M+G7xcNDw=="/>
         </item>
