@@ -3,12 +3,63 @@
     <channel>
         <title>NIVIS</title>
         <item>
-            <title>1.2</title>
-            <pubDate>Sat, 02 Aug 2025 18:48:06 -0400</pubDate>
-            <sparkle:version>1.2</sparkle:version>
-            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <title>1.5</title>
+            <pubDate>Mon, 11 Aug 2025 13:25:41 -0400</pubDate>
+            <description><![CDATA[
+                <h2>🚀 NIVIS 1.5 - Complete SSVEP Implementation & Major Enhancements</h2>
+                
+                <h3>🧠 NEW: Complete SSVEP (Steady-State Visual Evoked Potential) System</h3>
+                <ul>
+                    <li><strong>Visual Stimulus Designer:</strong> Drag-and-drop interface to create and position flickering stimuli</li>
+                    <li><strong>Real-Time Focus Simulation:</strong> Advanced focus controller with fatigue modeling and attention tracking</li>
+                    <li><strong>Multi-Frequency Support:</strong> Simultaneous stimuli at 8Hz, 12Hz, 15Hz, and custom frequencies</li>
+                    <li><strong>Visual Flickering:</strong> Real-time visual feedback with test mode for slower demonstration</li>
+                    <li><strong>Focus State Monitoring:</strong> Live focus detection with intensity tracking and target frequency identification</li>
+                    <li><strong>Performance Analytics:</strong> Real-time focus metrics, response times, and accuracy tracking</li>
+                </ul>
+                <h3>📊 Advanced Signal Processing & Analysis</h3>
+                <ul>
+                    <li><strong>Real-Time FFT Analysis:</strong> Power spectral density with frequency band overlays</li>
+                    <li><strong>Advanced Filtering:</strong> Low-pass, high-pass, band-pass, and notch filters with real-time preview</li>
+                    <li><strong>Artifact Detection:</strong> Automatic detection of eye blinks, motion, electrode pops, and powerline interference</li>
+                    <li><strong>Signal Quality Metrics:</strong> SNR calculation, artifact ratio, and frequency stability analysis</li>
+                    <li><strong>Connectivity Analysis:</strong> Phase coupling, amplitude coupling, and Granger causality</li>
+                </ul>
+
+                <h3>🎯 Professional Tutorials & Learning System</h3>
+                <ul>
+                    <li><strong>Comprehensive Tutorial Library:</strong> 12 detailed tutorials covering all major features</li>
+                    <li><strong>Interactive Learning:</strong> Step-by-step guides with difficulty levels and duration estimates</li>
+                    <li><strong>Search & Navigation:</strong> Easy-to-find tutorials with categorized sections</li>
+                    <li><strong>Example Projects:</strong> 10+ SSVEP demo projects showcasing real-world applications</li>
+                </ul>
+
+                <h3>🔧 Performance & User Experience Improvements</h3>
+                <ul>
+                    <li><strong>Window Management:</strong> Fixed performance issues and eliminated loading delays</li>
+                    <li><strong>Project System:</strong> Enhanced file-based project management with search and filtering</li>
+                    <li><strong>UI/UX Enhancements:</strong> Modern Apple-style interface with improved accessibility</li>
+                    <li><strong>Data Export:</strong> Enhanced CSV, JSON, HDF5, BDF, and EDF+ export capabilities</li>
+                    <li><strong>Real-Time Visualization:</strong> Improved oscilloscope, spectrogram, and topographic views</li>
+                </ul>
+
+                <h3>🏥 Healthcare & Research Applications</h3>
+                <ul>
+                    <li><strong>Clinical Research Tools:</strong> Research-grade data collection and analysis</li>
+                    <li><strong>Rehabilitation Systems:</strong> SSVEP-based therapy and training protocols</li>
+                    <li><strong>Diagnostic Support:</strong> Advanced signal processing for clinical assessment</li>
+                    <li><strong>Patient Monitoring:</strong> Real-time brain activity tracking and alerting</li>
+                </ul>
+
+                
+                <p><strong>Performance Improvements:</strong> Sub-10ms latency, multi-channel support (1-64), scalable architecture for research to production workflows.</p>
+                
+                <p><strong>System Requirements:</strong> macOS 15.0 or later, 8GB RAM recommended for large datasets.</p>
+            ]]></description>
+            <sparkle:version>1.5</sparkle:version>
+            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://alberthodo.github.io/NivisUpdates/NivisInstaller.dmg" length="5068384" type="application/octet-stream" sparkle:edSignature="AkDOoXYuyYmi0SFEht23F4g9xa9Ikd6ahz9dSxABuLmQexMidlRmPx2YXPmxgs9BxUKjR/GY6YK5dxf6fTokBA=="/>
+            <enclosure url="https://alberthodo.github.io/NivisUpdates/NivisInstaller.dmg" length="5126873" type="application/octet-stream" sparkle:edSignature="g/bfAlWRuUj3/5prcgNFhAyz4Q01bXe/a9bcsSUMzFVyqiYe7btjXXeOkaNqH+BmSkjOVgLuOqoeeXN0mDZ3CA=="/>
         </item>
     </channel>
 </rss>
